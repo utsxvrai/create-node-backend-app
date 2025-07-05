@@ -1,6 +1,6 @@
 {
   "name": "create-node-backend-app",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Scaffold different Node.js backend setups (Sequelize, Mongoose, etc)",
   "main": "cli.js",
   "bin": {
