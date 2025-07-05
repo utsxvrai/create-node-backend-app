@@ -1,0 +1,24 @@
+{
+  "name": "create-node-backend-app",
+  "version": "1.0.2",
+  "description": "Scaffold different Node.js backend setups (Sequelize, Mongoose, etc)",
+  "main": "cli.js",
+  "bin": {
+    "create-node-backend-app": "./cli.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongoose",
+    "sequelize",
+    "backend",
+    "boilerplate",
+    "cli",
+    "generator"
+  ],
+  "author": "Utsav Rai",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
